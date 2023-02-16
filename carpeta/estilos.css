@@ -1,0 +1,47 @@
+*{
+    color: #68006C;
+}
+
+html{
+    background-color: #CF5FD3;
+}
+
+
+h1{
+    color: rgb(64, 4, 111);
+}
+
+.clase{
+    color: green;
+}
+
+#id{
+    color: purple;
+}
+
+.catalogo{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.elemento{
+    height: 350px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto-centrado{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
